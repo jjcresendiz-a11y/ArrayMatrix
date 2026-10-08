@@ -16,7 +16,7 @@ be safely handled at runtime.
 */
 //Name : Jesus Resendiz
 // section : CS210-05
-//Date: October 8, 2025
+//Date: October 8, 2026
 #include "ArrayMatrix.h"
 #include <iostream>
 int main() {
